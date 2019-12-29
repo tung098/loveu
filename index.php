@@ -27,18 +27,18 @@
              <div id="wrap">
                 <div id="text">
 			        <div id="code">
-			      <font color="#0000FF"><span class="say">Chào Nhi <3</span><br>
+			      <font color="#0000FF"><span class="say">Hello <3</span><br>
 						<span class="say"> </span><br>
-						<span class="say">Em là người con gái anh yêu nhất !</span><br>
-						<span class="say">Em xinh đẹp nhất !</span><br>
-						<span class="say">Em đáng yêu nhất !</span><br>
+						<span class="say">Chào em !</span><br>
+						<span class="say">Hello em !</span><br>
+						<span class="say">Ahihi!</span><br>
 						<span class="say"> </span><br>
-                        <span class="say"><span class="space"></span> -- Yêu em thật nhiều --</span>
+                        <span class="say"><span class="space"></span> -- Đẹp khônggg --</span>
 			  </font></p>
       </div>
                 </div>
                 <div id="clock-box">
-                    <span class="STYLE1"></span><font color="#FF0000">Tùng <3 Nhi</font>
+                    <span class="STYLE1"></span><font color="#FF0000">Make-by-Tùng</font>
 <span class="STYLE1"> Time of love...</span>
                   <div id="clock"></div>
               </div>
@@ -177,7 +177,7 @@
 
         var textAnimate = eval(Jscex.compile("async", function () {
 		    var together = new Date();
-		    together.setFullYear(2019,4 , 16);
+		    together.setFullYear(2019,12 , 16);
 		    together.setHours(0);							
 		    together.setMinutes(0);				
 		    together.setSeconds(0);					
